@@ -1,0 +1,102 @@
+.body{
+    height: 900px;
+    width: 1200px;
+}
+.header{
+    width: 1200px;
+    padding: 5px 10px 5px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.back{
+    font-size: x-large;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+    color:black;    
+}
+.h1{
+    background-color: black;
+    color: white;
+    margin-right: 42%;
+}
+h1{
+    margin: 10px;
+}
+.main{
+    width: 1200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.main div{
+    width: 230px;
+    height: 90px;
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+}
+.main div span{
+    padding: 10px;
+}
+.a1{
+    background-color: rgb(255, 195, 18);
+}
+.a2{
+    background-color: rgb(196, 229, 56);
+}
+.a3{
+    background-color: rgb(18, 203, 196);
+}
+.a4{
+    background-color: rgb(253, 167, 223);
+}
+.a5{
+    background-color: rgb(237, 76, 103);
+}
+.a6{
+    background-color: rgb(247, 159, 31);
+}
+.a7{
+    background-color: rgb(163, 203, 56);
+}
+.a8{
+    background-color: rgb(18, 137, 167);
+} 
+.a9{ 
+    background-color: rgb(217, 128, 250);
+} 
+.a10{ 
+    background-color: rgb(181, 52, 113);
+} 
+.a11{ 
+    background-color: rgb(238, 90, 36);
+} 
+.a12{ 
+    background-color: rgb(0, 148, 50);
+} 
+.a13{ 
+    background-color: rgb(6, 82, 221);
+} 
+.a14{ 
+    background-color: rgb(153, 128, 250);
+} 
+.a15{ 
+    background-color: rgb(131, 52, 113);
+} 
+.a16{ 
+    background-color: rgb(234, 32, 39);
+} 
+.a17{ 
+    background-color: rgb(0, 98, 102);
+} 
+.a18{ 
+    background-color: rgb(27, 20, 100);
+} 
+.a19{ 
+    background-color: rgb(87, 88, 187);
+} 
+.a20{ 
+    background-color: rgb(111, 30, 81);
+}
